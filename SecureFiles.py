@@ -1,0 +1,2 @@
+paypal_client_id = 'AYEQYYlsksj3x7kMazKsNTw0uvNq9HbOtifSNG6Bn1QJltT_GH7RiGtQA5ScrWO0IauLFzb2La0FjNgo'
+paypal_secret = 'EJA1JYCTKZC4_qSE0YYX8kzqk1NIl1MNx05hWNJQD2SRdr4mGe3LX9CDYz-54ZM-fWqucbayOuVbFJUz'
